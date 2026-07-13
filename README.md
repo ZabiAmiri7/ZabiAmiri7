@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Software Developer 💻 with a passion for Data Science 🔬 & AI 🤖</h3>
 
 <p align="center">
@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=6C63FF&style=flat" alt="your-username" />
-  <a href="https://github.com/your-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/your-username?label=Follow&style=social" alt="follow" />
+  <img src="https://komarev.com/ghpvc/?username=ZabiAmiri7&label=Profile%20views&color=6C63FF&style=flat" alt="your-username" />
+  <a href="https://github.com/ZabiAmiri7?tab=followers">
+    <img src="https://img.shields.io/github/followers/ZabiAmiri7?label=Follow&style=social" alt="follow" />
   </a>
 </p>
 
@@ -70,18 +70,18 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZabiAmiri7&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZabiAmiri7&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZabiAmiri7&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=redical&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZabiAmiri7&theme=redical&hide_border=true" alt="activity graph" />
 </p>
 
 ---
