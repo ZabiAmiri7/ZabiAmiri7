@@ -7,8 +7,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dein-username&label=Profile%20views&color=6C63FF&style=flat" alt="dein-username" />
-  <a href="https://github.com/dein-username?tab=followers">
-    <img src="https://img.shields.io/github/followers/dein-username?label=Follow&style=social" alt="follow" />
+  <a href="https://github.com/ZabiAmiri7?tab=followers">
+    <img src="https://img.shields.io/github/followers/ZabiAmiri7?label=Follow&style=social" alt="follow" />
   </a>
 </p>
 
@@ -45,16 +45,16 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dein-username&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dein-username&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ZabiAmiri7&show_icons=true&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZabiAmiri7&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dein-username&theme=radical&hide_border=true" alt="streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZabiAmiri7&theme=radical&hide_border=true" alt="streak stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dein-username&theme=redical&hide_border=true" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ZabiAmiri7&theme=redical&hide_border=true" alt="activity graph" />
 </p>
 
 ---
@@ -63,8 +63,8 @@
 
 | Projekt | Beschreibung | Tech |
 |---|---|---|
-| 🔗 [Projekt 1](https://github.com/dein-username/projekt1) | Kurze Beschreibung des Projekts | Python, TensorFlow |
-| 🔗 [Projekt 2](https://github.com/dein-username/projekt2) | Kurze Beschreibung des Projekts | Pandas, scikit-learn |
+| 🔗 [Projekt 1](https://github.com/ZabiAmiri7/projekt1) | Kurze Beschreibung des Projekts | Python, TensorFlow |
+| 🔗 [Projekt 2](https://github.com/ZabiAmiri7/projekt2) | Kurze Beschreibung des Projekts | Pandas, scikit-learn |
 
 ---
 
