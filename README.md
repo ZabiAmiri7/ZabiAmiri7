@@ -19,9 +19,6 @@
 - 🔭 Currently working on: **add your project name**
 - 🌱 Currently learning: **e.g. LLMs, MLOps, Deep Learning**
 - 👯 Looking to collaborate on: **Open-Source ML / Full-Stack projects**
-- 💬 Ask me about: **Java, Spring Boot, React, Python, Rust, Data Analysis**
-- ⚡ Fun fact: **I can train a model faster than I can find where I put my coffee ☕**
-- 📫 Reach me at: **your-email@example.com**
 
 ---
 
@@ -77,13 +74,6 @@
 
 ---
 
-### 🌐 Connect with me
-
-<p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
