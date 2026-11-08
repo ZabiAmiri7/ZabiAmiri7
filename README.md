@@ -73,8 +73,3 @@
 | 🔗 [Project 2](https://github.com/your-username/project2) | Short description of the project | Python, TensorFlow |
 
 ---
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=100&section=footer" />
-</p>
