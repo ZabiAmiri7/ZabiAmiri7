@@ -19,7 +19,7 @@
 - 🔭 Currently working on: **add your project name**
 - 🌱 Currently learning: **e.g. LLMs, MLOps, Deep Learning**
 - 👯 Looking to collaborate on: **Open-Source ML / Full-Stack projects**
-- 💬 Ask me about: **Java, Spring Boot, React, Python, Data Analysis**
+- 💬 Ask me about: **Java, Spring Boot, React, Python, Rust, Data Analysis**
 - ⚡ Fun fact: **I can train a model faster than I can find where I put my coffee ☕**
 - 📫 Reach me at: **your-email@example.com**
 
