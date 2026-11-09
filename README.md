@@ -23,7 +23,7 @@
  
 **Frameworks & Libraries:** Spring Boot, React, Vue.js, Node.js, Express.js
  
-**Data Science & AI:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Jupyter
+**Data Science & AI:** Pandas, NumPy, TensorFlow, Jupyter, ClaudeCode
  
 **Tools & Platforms:** Maven, Git, Docker, Linux
  
