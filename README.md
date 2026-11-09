@@ -20,56 +20,25 @@
 - 🌱 Currently learning: **e.g. LLMs, MLOps, Deep Learning**
 - 👯 Looking to collaborate on: **Open-Source ML / Full-Stack projects**
 
+ 
+## Tech Stack & Tools
+ 
+**Languages:** Java, Python, Rust, JavaScript, R, SQL, HTML, CSS
+ 
+**Frameworks & Libraries:** Spring Boot, React, Vue.js, Node.js, Express.js
+ 
+**Data Science & AI:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Jupyter
+ 
+**Tools & Platforms:** Maven, Git, Docker, Linux
+ 
 ---
 
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://shields.io/badge/-Rust-3776AB?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-</p>
-
-**Data Science & AI**
-<p align="left">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-</p>
-
-**Tools & Platforms**
-<p align="left">
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
----
 
 ### 🏆 Featured Projects
 
-| Project | Description | Tech |
-|---|---|---|
-| 🔗 [Project 1](https://github.com/your-username/project1) | Short description of the project | Java, Spring Boot |
-| 🔗 [Project 2](https://github.com/your-username/project2) | Short description of the project | Python, TensorFlow |
+
+- [Project 1](https://github.com/ZabiAmiri7/project1): Short description of the project (Java, Spring Boot)
+- [Project 2](https://github.com/ZabiAmiri7/project2): Short description of the project (Python, TensorFlow)
+
 
 ---
